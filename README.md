@@ -4,11 +4,6 @@ An interactive Power BI dashboard designed to analyze coffee shop sales performa
 
 The dashboard converts raw coffee shop transaction data into an easy-to-understand business view that can help identify sales patterns, high-performing products, busy days, and store-level performance.
 
-📊 Dashboard Preview
-
-
-
-Note: Add the dashboard screenshot to this repository with the filename dashboard.png to display it here.
 
 🎯 Project Objectives
 
